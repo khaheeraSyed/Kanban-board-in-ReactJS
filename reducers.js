@@ -1,4 +1,3 @@
-// reducers.js
 import { ADD_TASK, MOVE_TASK } from './actions';
 
 const initialState = {
