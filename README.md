@@ -40,5 +40,6 @@ A Kanban board built with ReactJS that allows users to manage tasks across diffe
    ```bash
    git clone <repository-url>
 cd kanban-board
+npm install react-beautiful-dnd
 npm install
 npm start
